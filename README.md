@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-ET&hide=jupyternotebook&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-ET&hide=jupyter,notebook&theme=tokyonight)
 
