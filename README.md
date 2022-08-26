@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-ET&hide=jupyternotebook&theme=tokyonight&exclude_repo=Machine-Learning-with-Financial-Time-Series,python-functional-programming,NLP-Movie-Reviews-Classification,NLP-Twitter-Sentiment-Analysis,Classification-Part-2,Classification-Part-1,CIFAR-10-Deep-Neural-Network-Image-Classification,Feedforward-Artifical-Neural-Network-for-Car-Sales-Prediction,LeNeT-Deep-Network-Traffic-Sign-Classification,Analytical_Solution_Linear_Regression)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-ET&hide=jupyternotebook&theme=tokyonight&exclude_repo=Machine-Learning-with-Financial-Time-Series,python-functional-programming,NLP-Movie-Reviews-Classification,NLP-Twitter-Sentiment-Analysis,Classification-Part-2,Classification-Part-1,CIFAR-10-Deep-Neural-Network-Image-Classification,Feedforward-Artifical-Neural-Network-for-Car-Sales-Prediction,LeNeT-Deep-Network-Traffic-Sign-Classification,Overfitting-Validation-Regularisation)
 
